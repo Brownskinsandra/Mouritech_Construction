@@ -139,7 +139,9 @@ button {
     }
 } */
 @media(max-width:640px) {
-
+    body{
+        overflow-x: hidden;
+    }
     .nav-bar {
         width: 100%;
         display: flex;
